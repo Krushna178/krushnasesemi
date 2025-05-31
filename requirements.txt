@@ -1,0 +1,11 @@
+streamlit
+pandas
+pypdf
+scikit-learn
+docxtpl
+docx2pdf
+openai
+spacy
+python-dotenv
+linkedin-api
+openpyxl
